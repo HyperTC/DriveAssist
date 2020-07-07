@@ -1,0 +1,45 @@
+body {
+
+    font-size: 15pt;
+
+    margin: 0;
+
+}
+
+header{
+
+    background: #3b6978;
+
+}
+
+img.resize{
+
+  max-height: 70%;
+
+  max-width: 100%;
+
+}
+
+h2{
+
+  color: #dcb655;
+
+  text-align: center;
+
+}
+
+.para1{
+
+  text-align: left;
+
+  font-style: 20px;
+
+}
+
+footer{
+
+  background:#3b6978;
+
+  padding: 35px;
+
+}
